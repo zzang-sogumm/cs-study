@@ -42,6 +42,8 @@
 
 ### 📌 Operating System
 
+- [프로세스와 컴파일 과정](/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
+
 <br />
 
 ### 📌 Network
