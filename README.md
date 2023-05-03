@@ -26,10 +26,16 @@
                 <img src="https://github.com/isu-nice.png" width="70px" />
             </a>
         </td>
+        <td>
+            <a href="https://github.com/chiho98">
+                <img src="https://github.com/chiho98.png" width="70px" />
+            </a>
+        </td>
     </tr>
     <tr>
         <td><p align="center">조연주</p></td>
         <td><p align="center">신이수</p></td>
+        <td><p align="center">성치호</p></td>
     </tr>
 </tbody>
 </table>
