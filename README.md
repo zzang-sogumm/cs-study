@@ -50,6 +50,8 @@
 - [프로세스의 메모리 구조](/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
 
 ### 📌 Network
+- [네트워크의 기초](Network%2F%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98_%EA%B8%B0%EC%B4%88.md)
+- [네트워크 토폴로지와 병목현상](Network%2F%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80_%EB%B3%91%EB%AA%A9%ED%98%84%EC%83%81.md)
 
 <br />
 
