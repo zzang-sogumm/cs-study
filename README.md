@@ -51,6 +51,7 @@
 - [프로세스의 메모리 구조](/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
 - [PCB](/OS/PCB.md)
 - [스레드와 멀티프로세싱 및 멀티스레싱](/OS/%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%20%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1%20%EB%B0%8F%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EC%8B%B1.md)
+- [IPC](/OS/IPC.md)
 
 ### 📌 Network
 
