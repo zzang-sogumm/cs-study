@@ -26,10 +26,16 @@
                 <img src="https://github.com/isu-nice.png" width="70px" />
             </a>
         </td>
+        <td>
+            <a href="https://github.com/chiho98">
+                <img src="https://github.com/chiho98.png" width="70px" />
+            </a>
+        </td>
     </tr>
     <tr>
         <td><p align="center">조연주</p></td>
         <td><p align="center">신이수</p></td>
+        <td><p align="center">성치호</p></td>
     </tr>
 </tbody>
 </table>
@@ -52,8 +58,13 @@
 - [PCB](/OS/PCB.md)
 - [스레드와 멀티프로세싱 및 멀티스레싱](/OS/%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%20%EB%A9%80%ED%8B%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8B%B1%20%EB%B0%8F%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EC%8B%B1.md)
 - [IPC](/OS/IPC.md)
+- [공유자원과\_임계영역](/OS/%EA%B3%B5%EC%9C%A0%EC%9E%90%EC%9B%90%EA%B3%BC_%EC%9E%84%EA%B3%84%EC%98%81%EC%97%AD.md)
+- [교착상태](/OS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C.md)
+- [CPU 스케줄링 알고리즘](OS%2FCPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 
 ### 📌 Network
+- [네트워크의 기초](Network%2F%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98_%EA%B8%B0%EC%B4%88.md)
+- [네트워크 토폴로지와 병목현상](Network%2F%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80_%EB%B3%91%EB%AA%A9%ED%98%84%EC%83%81.md)
 
 <br />
 
