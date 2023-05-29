@@ -31,6 +31,11 @@
                 <img src="https://github.com/NaA-hwang.png" width="70px" />
             </a>
         </td>
+        <td>
+            <a href="https://github.com/NaA-hwang">
+                <img src="https://github.com/NaA-hwang.png" width="70px" />
+            </a>
+        </td>
     </tr>
     <tr>
         <td><p align="center">조연주</p></td>
