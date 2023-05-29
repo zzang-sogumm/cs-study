@@ -11,7 +11,7 @@
 
 [wiki를 참고해주세요!](https://github.com/zzang-sogumm/cs-study/wiki)
 
-## 🧑🏻‍💻 Member
+## 🧑🏻‍💻 Members
 
 <table>
 <tbody>
@@ -27,8 +27,8 @@
             </a>
         </td>
         <td>
-            <a href="https://github.com/chiho98">
-                <img src="https://github.com/chiho98.png" width="70px" />
+            <a href="https://github.com/NaA-hwang">
+                <img src="https://github.com/NaA-hwang.png" width="70px" />
             </a>
         </td>
         <td>
@@ -40,7 +40,6 @@
     <tr>
         <td><p align="center">조연주</p></td>
         <td><p align="center">신이수</p></td>
-        <td><p align="center">성치호</p></td>
         <td><p align="center">황윤하</p></td>
     </tr>
 </tbody>
@@ -69,8 +68,13 @@
 - [CPU 스케줄링 알고리즘](OS%2FCPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 
 ### 📌 Network
+
 - [네트워크의 기초](Network%2F%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98_%EA%B8%B0%EC%B4%88.md)
 - [네트워크 토폴로지와 병목현상](Network%2F%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80_%EB%B3%91%EB%AA%A9%ED%98%84%EC%83%81.md)
+- [네트워크 성능 분석 명령어](/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EC%84%B1%EB%8A%A5_%EB%B6%84%EC%84%9D_%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+- [네트워크 프로토콜 표준화](/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C_%ED%91%9C%EC%A4%80%ED%99%94.md)
+- [TCP/IP 4계층](/Network/TCP%2C%20IP_4%EA%B3%84%EC%B8%B5.md)
+- [네트워크 기기](/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%EA%B8%B0%EA%B8%B0.md)
 
 <br />
 
