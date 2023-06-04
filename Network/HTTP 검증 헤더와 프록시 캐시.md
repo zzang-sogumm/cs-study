@@ -42,14 +42,13 @@ ex) ETag: "v1.0", ETag: "asid93jkrh2l"
   - `304 Not Modified`로 응답
 
 
-## 프록시 캐시 (Proxy Cache)
+## 프록시 캐시 (Proxy Cache) 헤더
 프록시는 원 서버를 대리하여 통신하고, `캐시`, `로드밸런서` 등의 중계 역할을 하는 서버를 말한다.   
 일반적으로 클라이언트에서 서버로 리소스를 요청할 때, 프록시 서버를 거쳐 요청하게 된다.   
 
 원 서버와 클라이언트 간의 거리가 매우 멀어도 빠른 요청과 응답이 가능한 이유가 바로 `프록시 캐시` 덕분이다.
 
-### 프록시 캐시 헤더
-#### Cache-control (캐시 지시어)
+### 📍 Cache-control (캐시 지시어)
 ex) Cache-Control: public, Cache-Control: must-revalidate, ... 
 - public
   - 응답이 public 캐시에 저장되어도 됨
@@ -66,7 +65,7 @@ ex) Cache-Control: public, Cache-Control: must-revalidate, ...
   - 캐시 만료 후 최초 조회 시 원 서버에 검증해야함
   - 원 서버 접근 실패 시 반드시 `504 Gateway Timeout` 오류가 발생해야함
 
-##### 💥 no-cache VS must-revalidate
+#### 💥 no-cache VS must-revalidate
 
 <img src="images/no-cache.png" width="800" height="350">
 
@@ -82,15 +81,15 @@ ex) Cache-Control: public, Cache-Control: must-revalidate, ...
 
 
 
-#### Pragma: no-cache (캐시 제어)
+### 📍 Pragma: no-cache (캐시 제어)
 - HTTP 1.0 하위 호환
 
-#### Expires (캐시 만료일 지정)
+### 📍 Expires (캐시 만료일 지정)
 - 캐시 만료일을 정확한 날짜로 지정
 - HTTP 1.0 부터 사용
 - 지금은 더 유연한 `Cache-Control: max-age` 권장
 
-#### Age:60 
+### 📍 Age:60 
 - 오리진 서버에서 응답 후 프록시 캐시 내에 머문 시간(초)
 
 
