@@ -4,7 +4,7 @@
 
 ## 🔭 Goal
 
-- CS에 주제에 대해 한 번 공부하면 다시 안봐도 될 정도로 **깊이있게** 학습하기
+- 다시 꺼내 봤을 때, 바로 이해가 될 수 있도록 **깊이있게** 정리하기
 - 자신이 알고 있는 내용을 논리적이고 명확하게 **전달**하는 연습
 
 ## 🍪 Study Methods
@@ -76,6 +76,15 @@
 - [HTTP](/Network/HTTP.md)
 - [HTTPS](/Network/HTTPS.md)
 - [HTTP3](/Network/HTTP3.md)
+- [인터넷 네트워크](/Network/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
+- [URI](/Network/URI.md)
+- [웹 브라우저 요청 흐름](/Network/%EC%9B%B9%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%9A%94%EC%B2%AD%20%ED%9D%90%EB%A6%84.md)
+- [HTTP 특징과 메세지 구조](/Network/HTTP%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EA%B5%AC%EC%A1%B0.md)
+- [HTTP 메서드](/Network/HTTP%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
+- [HTTP 메서드 활용](/Network/HTTP%20%EB%A9%94%EC%84%9C%EB%93%9C%20%ED%99%9C%EC%9A%A9.md)
+- [HTTP 상태코드](/Network/HTTP%20%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
+- [HTTP 헤더](/Network/HTTP%20%ED%97%A4%EB%8D%94.md)
+- [HTTP 검증 헤더와 프록시 캐시](/Network/HTTP%20%EA%B2%80%EC%A6%9D%20%ED%97%A4%EB%8D%94%EC%99%80%20%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%BA%90%EC%8B%9C.md)
 
 <br />
 
