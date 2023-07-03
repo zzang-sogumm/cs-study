@@ -1,4 +1,4 @@
-# 💡 ERD와 정규화
+# 🧹  ERD와 정규화
 
 ## ERD(Entity Relationship Diagram)
 ERD는 DB를 구축할 때 가장 기초적인 뼈대 역할을 하며, 테이블 간의 관계를 정의한 것이다.   
