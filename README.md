@@ -90,6 +90,15 @@
 
 ### 📌 Database
 
+- [데이터베이스의 기본](/DB/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98_%EA%B8%B0%EB%B3%B8.md)
+- [데이버베이스의 관리 시스템](/DB/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EA%B4%80%EB%A6%AC_%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+- [Key](/DB/Key.md)
+- [ERD와 정규화](/DB/ERD%EC%99%80%20%EC%A0%95%EA%B7%9C%ED%99%94.md)
+- [트랜잭션과 무결성](/DB/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC%20%EB%AC%B4%EA%B2%B0%EC%84%B1.md)
+- [데이터베이스의 종류](/DB/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
+- [인덱스](/DB/%EC%9D%B8%EB%8D%B1%EC%8A%A4.md)
+- [조인](/DB/%EC%A1%B0%EC%9D%B8.md)
+
 <br />
 
 ### 📌 Design Pattern
