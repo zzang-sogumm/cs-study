@@ -1,8 +1,11 @@
 # CS STUDY 💡
 
 [![Since](https://img.shields.io/badge/since-2023.04.24-D1B6E1.svg?&edge_flat=false)](https://github.com/zzang-sogumm/cs-study)
+[![Until](https://img.shields.io/badge/until-2023.08.07-A9D4F4.svg?&edge_flat=false)](https://github.com/zzang-sogumm/cs-study)
 
-## 🔭 Goal
+> ❈ 공식적인 스터디 기간은 끝났으며, 각자 자유롭게 공부한 내용을 업로드하거나 내용을 보완할 예정입니다.
+
+## 🔭 Goals
 
 - 다시 꺼내 봤을 때, 바로 이해가 될 수 있도록 **깊이있게** 정리하기
 - 자신이 알고 있는 내용을 논리적이고 명확하게 **전달**하는 연습
@@ -11,7 +14,7 @@
 
 [wiki를 참고해주세요!](https://github.com/zzang-sogumm/cs-study/wiki)
 
-## 🧑🏻‍💻 Members
+## 🧑🏻‍💻 Contributors
 
 <table>
 <tbody>
@@ -86,8 +89,6 @@
 - [HTTP 헤더](/Network/HTTP%20%ED%97%A4%EB%8D%94.md)
 - [HTTP 검증 헤더와 프록시 캐시](/Network/HTTP%20%EA%B2%80%EC%A6%9D%20%ED%97%A4%EB%8D%94%EC%99%80%20%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%BA%90%EC%8B%9C.md)
 
-<br />
-
 ### 📌 Database
 
 - [데이터베이스의 기본](/DB/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98_%EA%B8%B0%EB%B3%B8.md)
@@ -99,14 +100,13 @@
 - [인덱스](/DB/%EC%9D%B8%EB%8D%B1%EC%8A%A4.md)
 - [조인](/DB/%EC%A1%B0%EC%9D%B8.md)
 
-<br />
-
 ### 📌 Design Pattern
 
+- [싱글톤 패턴](/Design%20Pattern/싱글톤%20패턴.md)
+- [팩토리 패턴](/Design%20Pattern/팩토리%20패턴.md)
+- [전략 패턴](/Design%20Pattern/전략%20패턴.md)
+- [옵저버 패턴](/Design%20Pattern/옵저버%20패턴.md)
+- [디자인 패턴2 - 프록시 패턴, 이터레이터 패턴, 노출모듈 패턴, MVC 패턴, MVP 패턴, MVVM 패턴](</Design%20Pattern/디자인%20패턴(2).md>)
+- [프로그래밍 패러다임](/Design%20Pattern/프로그래밍%20패러다임.md)
+
 <br />
-
-### 📌 Software Engineering
-
-<br />
-
-### 📌 Web
